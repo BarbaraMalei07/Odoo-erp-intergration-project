@@ -1,14 +1,14 @@
-# 🏢 ATelco Odoo ERP Integration Project
+# Telnova  Odoo ERP Integration Project
 
-## 📅 Project Duration
-**Start:** January 2025  
+##  Project Duration
+**Start:** May 2025
 **Go-Live:** June 2025  
-**Lead Entity:** ATelco Net Solutions – ICT Transformation Division
+**Lead Entity:** Telnova  Net Solutions – ICT Transformation Division
 
 ---
 
-## 🔧 Purpose of the Project
-To modernize ATelco’s internal operations by integrating the Odoo ERP platform with:
+##  Purpose of the Project
+To modernize Telnova's  internal operations by integrating the Odoo ERP platform with:
 - **OSS/BSS systems**
 - **CRM modules**
 - **Cloud infrastructure** (AWS)
@@ -18,7 +18,7 @@ This transformation was aimed at improving **efficiency, automation**, and **reg
 
 ---
 
-## ⚙️ Tools & Technologies Used
+##  Tools & Technologies Used
 - **Odoo v16** (Custom Modules: CRM, Inventory, HR, Invoicing)
 - **PostgreSQL** – DB backend
 - **AWS EC2 & RDS** – Infrastructure
@@ -29,9 +29,9 @@ This transformation was aimed at improving **efficiency, automation**, and **reg
 
 ---
 
-## 🚀 Project Phases & Key Deliverables
+##  Project Phases & Key Deliverables
 
-### 1. 🧩 **Initiation & Planning**
+### 1. **Initiation & Planning**
 - Business case approved
 - Resource allocation & budget approval
 - Risk register and stakeholder map
@@ -42,7 +42,7 @@ This transformation was aimed at improving **efficiency, automation**, and **reg
 
 ---
 
-### 2. 🏗️ **Design & Architecture**
+### 2.  **Design & Architecture**
 - Solution architecture diagrams
 - Integration scope for OSS/BSS & M-PESA APIs
 - Infrastructure-as-Code (Terraform for AWS)
